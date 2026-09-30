@@ -12,6 +12,7 @@ Prototipo inicial.
 - Inferencia
 - Configuracion
 - Documentacion / arquitectura
+- API
 
 ##Descripcion del proyecto
 
@@ -34,6 +35,7 @@ flexibilidad a nuestro sistema para que cumpla con las expectativas de los usuar
 entregarsela al usuario
 - Configuracion: Permite la seleccion de versiones / modos del sistema para especializarlo en la tarea
 deseada
+- API
 
 ##Elaborado por: Andrey Salcedo Hernandez
 
